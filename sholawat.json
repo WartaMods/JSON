@@ -25,6 +25,11 @@
   [
     {
       "id": 1,
+      "name_category": "Denny caknan",
+      "image": "file:///android_asset/image/mp3.png"
+    },
+    {
+      "id": 2,
       "name_category": "Sholawat",
       "image": "file:///android_asset/image/mp3.png"
     }
@@ -32,6 +37,96 @@
   "Data": [
     {
       "id": 1,
+      "name_category": "Denny caknan",
+      "title": "Angel",
+      "image": "file:///android_asset/image/Deny caknan.jpg",
+      "link_mp3": "https://archive.org/download/denny-caknan-mp3/Denny%20caknan%20mp3/file_1657084502162.mp3",
+      "duration": "306",
+      "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
+    },
+    {
+      "id": 2,
+      "name_category": "Denny caknan",
+      "title": "Bojo loro",
+      "image": "file:///android_asset/image/Deny caknan.jpg",
+      "link_mp3": "https://archive.org/download/denny-caknan-mp3/Denny%20caknan%20mp3/file_1657084502257.mp3",
+      "duration": "249",
+      "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
+    },
+    {
+      "id": 3,
+      "name_category": "Denny caknan",
+      "title": "Kok iso yo",
+      "image": "file:///android_asset/image/Deny caknan.jpg",
+      "link_mp3": "https://archive.org/download/denny-caknan-mp3/Denny%20caknan%20mp3/file_1657084502393.mp3",
+      "duration": "351",
+      "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
+    },
+    {
+      "id": 4,
+      "name_category": "Denny caknan",
+      "title": "Lemah teles",
+      "image": "file:///android_asset/image/Deny caknan.jpg",
+      "link_mp3": "https://archive.org/download/denny-caknan-mp3/Denny%20caknan%20mp3/file_1657084502564.mp3",
+      "duration": "305",
+      "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
+    },
+    {
+      "id": 5,
+      "name_category": "Denny caknan",
+      "title": "Los Dol",
+      "image": "file:///android_asset/image/Deny caknan.jpg",
+      "link_mp3": "https://archive.org/download/denny-caknan-mp3/Denny%20caknan%20mp3/file_1657084502674.mp3",
+      "duration": "282",
+      "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
+    },
+    {
+      "id": 6,
+      "name_category": "Denny caknan",
+      "title": "Madiun ngawi",
+      "image": "file:///android_asset/image/Deny caknan.jpg",
+      "link_mp3": "https://archive.org/download/denny-caknan-mp3/Denny%20caknan%20mp3/file_1657084502998.mp3",
+      "duration": "336",
+      "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
+    },
+    {
+      "id": 7,
+      "name_category": "Denny caknan",
+      "title": "Mendung tanpo udan",
+      "image": "file:///android_asset/image/Deny caknan.jpg",
+      "link_mp3": "https://archive.org/download/denny-caknan-mp3/Denny%20caknan%20mp3/file_1657084503067.mp3",
+      "duration": "292",
+      "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
+    },
+    {
+      "id": 8,
+      "name_category": "Denny caknan",
+      "title": "Ojo dibandingke",
+      "image": "file:///android_asset/image/Deny caknan.jpg",
+      "link_mp3": "https://archive.org/download/denny-caknan-mp3/Denny%20caknan%20mp3/file_1657084503159.mp3",
+      "duration": "336",
+      "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
+    },
+    {
+      "id": 9,
+      "name_category": "Denny caknan",
+      "title": "Satru 2",
+      "image": "file:///android_asset/image/Deny caknan.jpg",
+      "link_mp3": "https://archive.org/download/denny-caknan-mp3/Denny%20caknan%20mp3/file_1657084503329.mp3",
+      "duration": "282",
+      "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
+    },
+    {
+      "id": 10,
+      "name_category": "Denny caknan",
+      "title": "Satru",
+      "image": "file:///android_asset/image/Deny caknan.jpg",
+      "link_mp3": "https://archive.org/download/denny-caknan-mp3/Denny%20caknan%20mp3/file_1657084503526.mp3",
+      "duration": "302",
+      "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
+    },
+    {
+      "id": 11,
       "name_category": "Sholawat",
       "title": "adnaniyyah",
       "image": "file:///android_asset/image/mp3.png",
@@ -40,7 +135,7 @@
       "lyrics": "<p style=\"text-align: center;\">Solla'alaikallah huya adnani</p>\n<p style=\"text-align: center;\">Ya musthofa ya saf watar rahmanni</p>\n<p style=\"text-align: center;\">Alhamdulillah hillazi atthoni</p>\n<p style=\"text-align: center;\">Hazzal hunamat thoyyibal ardhani</p>\n<p style=\"text-align: center;\">Hazzal hunamat thoyyibal ardhani</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Qad saa da fil mahdi alal zil mani</p>\n<p style=\"text-align: center;\">Muiz zuhu bilbaiyti zil arkhani</p>\n<p style=\"text-align: center;\">Hatta aro hubal lirul bunyani</p>\n<p style=\"text-align: center;\">Antallazi sunni kahfi qurranni</p>\n<p style=\"text-align: center;\">Antallazi sunni kahfi qurranni</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Solla'alaikallah huya adnani</p>\n<p style=\"text-align: center;\">Ya musthofa ya saf watar rahmanni</p>\n<p style=\"text-align: center;\">Alhamdulillah hillazi atthoni</p>\n<p style=\"text-align: center;\">Hazzal hunamat thoyyibal ardhani</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Ahmad duhu fissil riwal burhani</p>\n<p style=\"text-align: center;\">Haqqal alal islam riwal imani</p>\n<p style=\"text-align: center;\">Ya robbanal bil musthofal adnani</p>\n<p style=\"text-align: center;\">Igfir dzunuubi tsumma ashlitsanii</p>\n<p style=\"text-align: center;\">Igfir dzunuubi tsumma ashlitsanii</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Solla'alaikallah huya adnani</p>\n<p style=\"text-align: center;\">Ya musthofa ya saf watar rahmanni</p>\n<p style=\"text-align: center;\">Alhamdulillah hillazi atthoni</p>\n<p style=\"text-align: center;\">Hazzal hunamat thoyyibal ardhani</p>"
     },
     {
-      "id": 2,
+      "id": 12,
       "name_category": "Sholawat",
       "title": "alfamabruk",
       "image": "file:///android_asset/image/mp3.png",
@@ -49,7 +144,7 @@
       "lyrics": "<p style=\"text-align: center;\">Mabruuk alfa mabruuk ‘alaika mabruuk</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk ‘alaika mabruuk</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk yawm miiladik mabruuk</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk ‘alaika mabruuk</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk ‘alaika mabruuk</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk yawm miiladik mabruuk</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Selamat hari milad semoga dapat rohmat</p>\n<p style=\"text-align: center;\">Selamat hari milad semoga dapat rohmat</p>\n<p style=\"text-align: center;\">Dari Allahu Ahad hingga hidup selamat</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk ‘alaika mabruuk</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk ‘alaika mabruuk</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk yawm miiladik mabruuk</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Selamat ulang tahun</p>\n<p style=\"text-align: center;\">Semoga berkah turun</p>\n<p style=\"text-align: center;\">Selamat ulang tahun</p>\n<p style=\"text-align: center;\">Semoga berkah turun</p>\n<p style=\"text-align: center;\">Dari Allah Pengampun</p>\n<p style=\"text-align: center;\">Sehingga hidup rukun</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk ‘alaika mabruuk</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk ‘alaika mabruuk</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk yawm miiladik mabruuk</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Amin amin amin amin</p>\n<p style=\"text-align: center;\">Amin amin amin amin</p>\n<p style=\"text-align: center;\">Amin amin amin amin</p>\n<p style=\"text-align: center;\">Allah Robbul A’lamin</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk ‘alaika mabruuk</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk ‘alaika mabruuk</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk yawm miiladik mabruuk</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk ‘alaika mabruuk</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk ‘alaika mabruuk</p>\n<p style=\"text-align: center;\">Mabruuk alfa mabruuk yawm miiladik mabruuk</p>\n<p style=\"text-align: center;\">&nbsp;</p>"
     },
     {
-      "id": 3,
+      "id": 13,
       "name_category": "Sholawat",
       "title": "alfasalam",
       "image": "file:///android_asset/image/mp3.png",
@@ -58,7 +153,7 @@
       "lyrics": "<p style=\"text-align: center;\">Sholatun minallah wa alfa salam</p>\n<p style=\"text-align: center;\">‘Alal Mushthofa Ahmad syarifil maqom</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salamun salamun kamiskil khitam</p>\n<p style=\"text-align: center;\">‘Alaikum uhaiba bana Ya Kirom</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Wa man dzikruhum unsuna fidh-dholam</p>\n<p style=\"text-align: center;\">Wa nurun lana baina Hadzal anam</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Sakantum fu-adi wa robbil ‘ibad</p>\n<p style=\"text-align: center;\">Wa antum maromi wa aqshol murod</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Fahal tus’iduni bishoufil widad</p>\n<p style=\"text-align: center;\">Wa hal tamnahuni syarifal maqom</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Ana ‘abdukum ya uhailal wafa</p>\n<p style=\"text-align: center;\">Wa fi qurbikum marhami was-syif</p>\n<p style=\"text-align: center;\">&nbsp;</p>"
     },
     {
-      "id": 4,
+      "id": 14,
       "name_category": "Sholawat",
       "title": "Alhamdulillah",
       "image": "file:///android_asset/image/mp3.png",
@@ -67,7 +162,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 5,
+      "id": 15,
       "name_category": "Sholawat",
       "title": "allahulkafi",
       "image": "file:///android_asset/image/mp3.png",
@@ -76,7 +171,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 6,
+      "id": 16,
       "name_category": "Sholawat",
       "title": "asyghil",
       "image": "file:///android_asset/image/mp3.png",
@@ -85,7 +180,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 7,
+      "id": 17,
       "name_category": "Sholawat",
       "title": "badar",
       "image": "file:///android_asset/image/mp3.png",
@@ -94,7 +189,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 8,
+      "id": 18,
       "name_category": "Sholawat",
       "title": "burdah",
       "image": "file:///android_asset/image/mp3.png",
@@ -103,7 +198,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 9,
+      "id": 19,
       "name_category": "Sholawat",
       "title": "Busyrolana",
       "image": "file:///android_asset/image/mp3.png",
@@ -112,7 +207,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 10,
+      "id": 20,
       "name_category": "Sholawat",
       "title": "fatih",
       "image": "file:///android_asset/image/mp3.png",
@@ -121,7 +216,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 11,
+      "id": 21,
       "name_category": "Sholawat",
       "title": "habibalqolbi",
       "image": "file:///android_asset/image/mp3.png",
@@ -130,7 +225,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 12,
+      "id": 22,
       "name_category": "Sholawat",
       "title": "huwwannur",
       "image": "file:///android_asset/image/mp3.png",
@@ -139,7 +234,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 13,
+      "id": 23,
       "name_category": "Sholawat",
       "title": "ibrahim",
       "image": "file:///android_asset/image/mp3.png",
@@ -148,7 +243,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 14,
+      "id": 24,
       "name_category": "Sholawat",
       "title": "innalhabiba",
       "image": "file:///android_asset/image/mp3.png",
@@ -157,7 +252,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 15,
+      "id": 25,
       "name_category": "Sholawat",
       "title": "isyfalana",
       "image": "file:///android_asset/image/mp3.png",
@@ -166,7 +261,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 16,
+      "id": 26,
       "name_category": "Sholawat",
       "title": "itiraf",
       "image": "file:///android_asset/image/mp3.png",
@@ -175,7 +270,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 17,
+      "id": 27,
       "name_category": "Sholawat",
       "title": "khairilanam",
       "image": "file:///android_asset/image/mp3.png",
@@ -184,7 +279,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 18,
+      "id": 28,
       "name_category": "Sholawat",
       "title": "labbaik",
       "image": "file:///android_asset/image/mp3.png",
@@ -193,7 +288,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 19,
+      "id": 29,
       "name_category": "Sholawat",
       "title": "man-ana",
       "image": "file:///android_asset/image/mp3.png",
@@ -211,7 +306,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 21,
+      "id": 31,
       "name_category": "Sholawat",
       "title": "munjiyat",
       "image": "file:///android_asset/image/mp3.png",
@@ -220,7 +315,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 22,
+      "id": 32,
       "name_category": "Sholawat",
       "title": "nariyah",
       "image": "file:///android_asset/image/mp3.png",
@@ -229,7 +324,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 23,
+      "id": 33,
       "name_category": "Sholawat",
       "title": "nu",
       "image": "file:///android_asset/image/mp3.png",
@@ -238,7 +333,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 24,
+      "id": 34,
       "name_category": "Sholawat",
       "title": "nurilanwar",
       "image": "file:///android_asset/image/mp3.png",
@@ -247,7 +342,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 25,
+      "id": 35,
       "name_category": "Sholawat",
       "title": "nurulmustofa",
       "image": "file:///android_asset/image/mp3.png",
@@ -256,7 +351,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 26,
+      "id": 36,
       "name_category": "Sholawat",
       "title": "qomarun",
       "image": "file:///android_asset/image/mp3.png",
@@ -265,7 +360,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 27,
+      "id": 37,
       "name_category": "Sholawat",
       "title": "roqqot-aina",
       "image": "file:///android_asset/image/mp3.png",
@@ -274,7 +369,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 28,
+      "id": 38,
       "name_category": "Sholawat",
       "title": "sadunafidunya",
       "image": "file:///android_asset/image/mp3.png",
@@ -283,7 +378,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 29,
+      "id": 39,
       "name_category": "Sholawat",
       "title": "sholatunbisalamilmubin",
       "image": "file:///android_asset/image/mp3.png",
@@ -292,7 +387,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 30,
+      "id": 40,
       "name_category": "Sholawat",
       "title": "Syaikhona",
       "image": "file:///android_asset/image/mp3.png",
@@ -301,7 +396,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 31,
+      "id": 41,
       "name_category": "Sholawat",
       "title": "syifa",
       "image": "file:///android_asset/image/mp3.png",
@@ -310,7 +405,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 32,
+      "id": 42,
       "name_category": "Sholawat",
       "title": "tolaalbadru",
       "image": "file:///android_asset/image/mp3.png",
@@ -319,7 +414,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 33,
+      "id": 43,
       "name_category": "Sholawat",
       "title": "wathon",
       "image": "file:///android_asset/image/mp3.png",
@@ -328,7 +423,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 34,
+      "id": 44,
       "name_category": "Sholawat",
       "title": "yaasyiqol",
       "image": "file:///android_asset/image/mp3.png",
@@ -337,7 +432,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 35,
+      "id": 45,
       "name_category": "Sholawat",
       "title": "yabadrotin",
       "image": "file:///android_asset/image/mp3.png",
@@ -346,7 +441,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 36,
+      "id": 46,
       "name_category": "Sholawat",
       "title": "yahanana",
       "image": "file:///android_asset/image/mp3.png",
@@ -355,7 +450,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 37,
+      "id": 47,
       "name_category": "Sholawat",
       "title": "yamani",
       "image": "file:///android_asset/image/mp3.png",
@@ -364,7 +459,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 38,
+      "id": 48,
       "name_category": "Sholawat",
       "title": "ya-nabi-salam",
       "image": "file:///android_asset/image/mp3.png",
@@ -373,7 +468,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 39,
+      "id": 49,
       "name_category": "Sholawat",
       "title": "yarosulalloh",
       "image": "file:///android_asset/image/mp3.png",
@@ -382,7 +477,7 @@
       "lyrics": "<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"
     },
     {
-      "id": 40,
+      "id": 50,
       "name_category": "Sholawat",
       "title": "zurnamakkah",
       "image": "file:///android_asset/image/mp3.png",
